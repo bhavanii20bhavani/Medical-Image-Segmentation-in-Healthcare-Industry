@@ -1,0 +1,26 @@
+
+
+https://www.kaggle.com/datasets/obulisainaren/multi-cancer?select=Multi+Cancer
+
+
+Acute Lymphoblastic Leukemia ↪ 🔗 Ref.
+all_benign Benign
+all_early Early
+all_pre  Pre
+all_pro  Pro
+Kidney Cancer ↪ 🔗 Ref.
+kidney_normal  Normal
+kidney_tumor   Tumor
+Lung and Colon Cancer ↪ 🔗 Ref.
+colon_aca   Colon Adenocarcinoma
+colon_bnt  Colon Benign Tissue
+lung_aca  Lung Adenocarcinoma
+lung_bnt  Lung Benign Tissue
+lung_scc  Lung Squamous Cell Carcinoma
+Lymphoma ↪ 🔗 Ref.
+lymph_cll   Chronic Lymphocytic Leukemia
+lymph_fl   Follicular Lymphoma
+lymph_mcl   Mantle Cell Lymphoma
+Oral Cancer ↪ 🔗 Ref.
+oral_normal   Normal
+oral_scc   Oral Squamous Cell Carcinoma
